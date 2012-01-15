@@ -3,6 +3,6 @@
 
 int main()
 {
-    cout << "yo" << endl;
+    cout << "yo" << endl; // added comment
     getch();
 }
